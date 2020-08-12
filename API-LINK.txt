@@ -1,0 +1,8 @@
+List of all presets :
+http://localhost:8080/presets/?key=123456
+
+Get Detail Single Presets :
+http://localhost:8080/presets/1?key=123456
+
+Search presets :
+http://localhost:8080/presets/search/?key=123456&keyword=an
